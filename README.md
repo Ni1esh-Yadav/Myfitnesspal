@@ -4,6 +4,8 @@
 
 This project was created as a task for Google Summer of Code (GSoC) 2025.
 
+### To see the working of this project head-down to the end of this readme file i have attached the Video of the working website
+
 ### Overview
 
 This project provides a simple web application that allows users to upload MyFitnessPal CSV exports and visualize the data using Grafana. MyFitnessPal is a popular mobile app for tracking food intake, exercise, and other fitness metrics. While it allows CSV exports, manually analyzing these files can be cumbersome. This project automates the process by integrating with Grafana to provide clear and interactive visualizations.
