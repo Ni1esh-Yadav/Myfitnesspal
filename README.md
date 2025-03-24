@@ -198,8 +198,14 @@ command for stopping and starting grafana is mentioned above
 - Select an `uploadId` from the dropdown.
 - Check if the panel correctly updates based on the selected `uploadId`.
 
-🎯 **Final Notes:**
+**Final Notes:**
 
 - Ensure your Express backend is running (`node index.js`).
 - Open your browser and manually test `http://localhost:5000/api/upload-ids` to confirm it returns the correct data.
 - If errors persist, check **browser console logs** and **backend logs**.
+
+**Working Of Website:**
+
+https://github.com/user-attachments/assets/6a1f0431-ec2b-4a85-959f-df7e795373ce
+
+
