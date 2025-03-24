@@ -208,4 +208,17 @@ command for stopping and starting grafana is mentioned above
 
 https://github.com/user-attachments/assets/6a1f0431-ec2b-4a85-959f-df7e795373ce
 
+**Screenshot:**
+
+![1](https://github.com/user-attachments/assets/985a32fe-bb87-4ef1-abf1-c3d952e9183e)
+
+![2](https://github.com/user-attachments/assets/ea2b21a9-6853-4850-8c01-305c79574f70)
+
+![3](https://github.com/user-attachments/assets/8ba5fbe9-25e4-4f5e-a584-df4701f3dea8)
+
+![4](https://github.com/user-attachments/assets/34b35508-9e7c-4b8c-b3be-1bfca42c1310)
+
+![5](https://github.com/user-attachments/assets/a6e758d3-6a40-4041-a20c-19c55bb2bd38)
+
+
 
